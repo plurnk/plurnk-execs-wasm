@@ -1,3 +1,5 @@
+> **ABSORBED into the plurnk platform monorepo** — code, history, and issues now live in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service) under `plurnk-execs-wasm/`. This repo is an archived snapshot.
+
 # @plurnk/plurnk-execs-wasm
 
 WebAssembly runtime executor for [plurnk-service](https://github.com/plurnk/plurnk-service)'s `exec` scheme. Runs model-authored WebAssembly **in-process, sandboxed** — the safe arbitrary-execution tier that `node -e` can't be.
